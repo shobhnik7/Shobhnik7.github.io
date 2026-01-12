@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Shobhnik7.github.io/sitemap.xml
